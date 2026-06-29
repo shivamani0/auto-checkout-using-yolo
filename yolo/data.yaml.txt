@@ -1,0 +1,10 @@
+path: .
+train: images/train
+val: images/train
+
+names:
+  0: charger
+  1: id_card
+  2: mouse
+  3: reynolds_pen
+  4: steel-cup
